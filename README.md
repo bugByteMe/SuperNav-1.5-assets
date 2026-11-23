@@ -4,7 +4,7 @@ Large video files for the [SuperNav-1.5 project page](https://zju3dv.github.io/S
 
 ## Layout
 
-- `assets/overview/`: rendered 63-second overview video.
+- `assets/overview/`: rendered 42-second overview video.
 - `assets/realworld_demos/`: six real-world demonstrations.
 - `assets/simulation_demos/`: twelve simulation demonstrations.
 
